@@ -1,5 +1,5 @@
 # CHAT_BOT_FASTAPI
-##使用方式
+## 使用方式
 ```shell
 uvicorn listen:app --reload
 #如果需要预设端口可以自己百度
